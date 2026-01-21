@@ -22,6 +22,10 @@ int main() {
 
     void dibujarTablero(char *espacios)
     {
+        cout << '\n';
+        cout << "     |     |     ";
+        cout << "  "" <<    |     |     ";
+        cout << "     |     |     ";
 
     }
     
